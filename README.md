@@ -1,34 +1,17 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%" />
+</div>
 
-### <div align="center">I'm Yaroslav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
-  
+## About Me
+I'm Yaroslav, a Fullstack Developer focused on building scalable, high-load web applications. 
 
-- 🔭 I’m currently working as a freelancer  
-  
+* 🚀 **Specializing in:** Node.js, TypeScript, and high-load architecture.
+* 🛠 **Building with:** PostgreSQL, Redis, and BullMQ to solve complex engineering challenges.
+* 💻 **Passionate about:** Writing clean, maintainable code and performance optimization.
+* ⚡ **Currently:** Open for full-time roles and interesting backend/fullstack projects.
+* 🌐 **Location:** Based in Alba Iulia, Romania | Available for remote work.
 
-- 🌱 I’m currently learning backend development  
-  
-
-- ❓ I’m interested in backend development and open to discussions about programming and freelancing.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-
-
-### Frontend  
-### 🛠 Technologies & Tools
-
+## 🛠 Technologies & Tools
 <div align="center">
   <!-- Language & Core -->
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -54,59 +37,24 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
+## 🚀 Featured Projects
+*   **[TempMail Service](https://github.com/YAtsevych/TempMail):** High-load temporary email service built with Node.js, TypeScript, PostgreSQL, and Redis/BullMQ.
+*   **[Language Learning Platform](https://github.com/YAtsevych/Consul):** React-based MVP with AI-powered content generation and custom REST API.
 
-## Connect with me  
-
-
-### Contacts  
+## 📊 GitHub Stats
 <div align="center">
-<a href="https://github.com/YAtsevych" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yaroslav-yatsevych-210114324" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/yatsevychya" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAtsevych&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YAtsevych&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
+## Connect with me
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YAtsevych&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/YAtsevych" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+  <a href="https://github.com/YAtsevych" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://linkedin.com/in/yaroslav-yatsevych-210114324" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://instagram.com/yatsevychya" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</div>
